@@ -1,4 +1,5 @@
 class testmyrepo{
-  var $etie;
-  var $toeoe;
+   $etie = 1;
+   $toeoe = 2;
+   $certy = 2;
 }
