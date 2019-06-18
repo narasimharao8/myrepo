@@ -1,0 +1,4 @@
+class testmyrepo{
+  var $etie;
+  var $toeoe;
+}
